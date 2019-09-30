@@ -1,0 +1,14 @@
+What situations need logging?
+
+HttpRequest and Response Info
+error handling (exceptions)
+parser startup & finish
+browser trace logs
+all I/O 
+
+
+Questions to be answered:
+Where should we configure the logging?
+Will we ever need more than one logger at once?
+How do we configure serilog into microsoft extensions?
+
