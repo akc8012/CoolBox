@@ -6,5 +6,7 @@ class Program
 	{
 		var dank = new DankThings();
 		dank.PrintDank();
+
+		var logger = new Logger();
 	}
 }
