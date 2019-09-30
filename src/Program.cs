@@ -6,7 +6,8 @@ namespace CoolBox
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			var dank = new DankThings();
+			dank.PrintDank();
 		}
 	}
 }
