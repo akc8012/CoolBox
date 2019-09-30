@@ -1,0 +1,29 @@
+2 Keys to Software Deve success
+===============================
+1. Communication Game
+2. Learning is the bottleneck
+3. No Late surprises!
+
+
+
+Learning Items
+============================
+Docker
+Jenkins
+ASP.NET
+Octaopus
+Messaging { Rabbit MQ, NService Bus }
+Serilog & Microsoft Logging Extensions
+What else?
+
+C# 
+Nunit
+Microservice Concepts
+Parser Domain 
+Javascript
+JSon
+.SLN and .CSPROJ Management
+GRASP
+SOLID
+Design Patterns
+TDD
