@@ -1,13 +1,10 @@
 ﻿using System;
 
-namespace CoolBox
+class Program
 {
-	class Program
+	static void Main(string[] args)
 	{
-		static void Main(string[] args)
-		{
-			var dank = new DankThings();
-			dank.PrintDank();
-		}
+		var dank = new DankThings();
+		dank.PrintDank();
 	}
 }
