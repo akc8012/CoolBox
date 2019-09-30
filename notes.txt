@@ -1,0 +1,19 @@
+Generic Host: for non-HTTP scenarios, ex: messaging, background tasks
+  Microlith *uses* HTTP, so this *probably* isn't applicable?
+  https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-2.2
+    This is as opposed to a Web Host, which Microlith is more likely to be using.
+
+  Their tutorial uses a 'hosted' app, and I *think* Microlith fits in this category, so Imma just go with it
+  Regardless of all - Your app needs a *host*, which we know Microlith must have, so we good
+
+
+Since doing this requires a lot of boilerplate (a real running ASP.NET api), Imma probably pull the example code used here?
+  https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.2
+After following this, we should do THIS:
+  https://github.com/serilog/serilog-settings-configuration
+  Serilog tutorial
+
+
+Could read about Serilog and 'structured logging' in the meantime. 
+  But, it's hard to get an idea for how it should work without really using it...
+
