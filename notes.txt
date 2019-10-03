@@ -17,3 +17,7 @@ After following this, we should do THIS:
 Could read about Serilog and 'structured logging' in the meantime. 
   But, it's hard to get an idea for how it should work without really using it...
 
+
+ToDo:
+  Check if switching to LogFromMain actually logs more
+  Implement SERILOG instead of MS logging boi
